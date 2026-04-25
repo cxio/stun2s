@@ -2,6 +2,10 @@
 
 这是对 `stun2` 项目的一个服务端实现，提供基于新的 STUN2 协议的 NAT 类型和存活期探测，以及 UDP 打洞协助功能。
 
+> **名识：**
+> 1. `stun2s-service`。
+> 2. SHA2.sum256("stun2s-service-v1")[:16] => `18f6d3efa3ca76e53f3b8d7f557052da`（十六进制）。
+
 
 ## 功能
 

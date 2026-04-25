@@ -18,7 +18,7 @@
 
 ### 节点信息
 
-名识：`stun2p-service`。
+名识：`stun2s-service`。
 
 其余信息（版本、协议、地址、SPKI、ECH、NATT、Extra）详见项目 [p2p](https://github.com/cxio/p2p)，位置：docs/conception/design.md。
 
