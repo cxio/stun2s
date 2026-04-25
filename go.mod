@@ -1,5 +1,3 @@
-module github.com/cxio/stun2p
+module github.com/cxio/stun2s
 
-go 1.25.5
-
-require github.com/cxio/stun2 v0.0.0-20260113121033-d2f581f0d751
+go 1.26.2

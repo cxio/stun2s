@@ -18,12 +18,9 @@
 
 ### 节点信息
 
-- 名识：`stun2-service`。
-- 协议：`quic`, `http2`。
-- 地址：公网IP:Port，可以有多个。
-- SPKI：证书的公钥信息指纹，即 sha256(SPKI)。
-- NATT：NAT类型（`Public` | `FullC`）。
-- Extra：无。
+名识：`stun2p-service`。
+
+其余信息（版本、协议、地址、SPKI、ECH、NATT、Extra）详见项目 [p2p](https://github.com/cxio/p2p)，位置：docs/conception/design.md。
 
 
 ### 应用池
